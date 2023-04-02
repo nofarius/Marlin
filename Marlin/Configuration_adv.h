@@ -3032,7 +3032,8 @@
     #define STEALTHCHOP_U
     #define STEALTHCHOP_V
     #define STEALTHCHOP_W
-    #define STEALTHCHOP_E
+    // Apparently not recommended to have this on for the Extruder. Coouldn't find a definitive source for this though other than reddit
+    // #define STEALTHCHOP_E
   #endif
 
   /**
